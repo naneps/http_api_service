@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:http_api_service/api_service.dart';
+import 'package:http_api_service/http_api_service.dart';
 
 void main() {
   final apiService =
