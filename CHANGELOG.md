@@ -11,3 +11,4 @@
 ## [1.0.1] - 2025-01-13
 - Updated documentation for better clarity.
 - Minor corrections to usage examples and installation steps.
+
