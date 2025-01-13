@@ -1,4 +1,3 @@
-Here's an updated version of the `README.md` file, correcting the installation section and adjusting other details for clarity and accuracy:
 
 ---
 
@@ -164,8 +163,3 @@ For further questions or support, visit the [GitHub repository](https://github.c
 
 ---
 
-### Explanation of Changes:
-- The **Installation** section has been updated to reflect the correct way to install the package directly from `pub.dev` using the version constraint `^1.0.0`, or from GitHub with the URL and reference.
-- Other sections are untouched, but feel free to modify them as needed for your specific use case. 
-
-This structure should now be clear for developers who want to integrate `api_service` into their projects, either by using the official published version or directly from the GitHub repository.
