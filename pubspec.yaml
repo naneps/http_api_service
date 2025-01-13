@@ -1,4 +1,4 @@
-name: api_service
+name: http_api_service
 description: A simple and reusable HTTP service for Flutter applications.
 version: 1.0.0
 homepage: https://github.com/naneps/api_service
