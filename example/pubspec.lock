@@ -29,10 +29,10 @@ packages:
     dependency: "direct main"
     description:
       name: http_api_service
-      sha256: fdab9a7ac9324db11c280e8e3bb0ee9c369b13ea825784cb224750f7649866f4
+      sha256: bd87ade6c111a682620168b270d91c49b10dd7f14a3ac7f3f4b6ae0c394b2da7
       url: "https://pub.dev"
     source: hosted
-    version: "1.0.2"
+    version: "1.0.3"
   http_parser:
     dependency: transitive
     description:

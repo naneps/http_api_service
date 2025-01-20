@@ -1,5 +1,14 @@
 # Changelog
 
+
+## [1.0.3] - 2025-01-13
+publishing.
+- **Example Usage Added**: Introduced a structured example to demonstrate how to use the `api_service` package in your 
+
+
+
+---
+
 ## [1.0.3] - 2025-01-13
 ### New Features & Enhancements:
 - **Updated LICENSE**: The `LICENSE` file now includes a proper license for the package (MIT License).
