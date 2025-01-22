@@ -1,7 +1,7 @@
 
 ---
 
-# api_service
+# http_api_service
 
 `api_service` is a Dart package that provides an easy-to-use, reusable HTTP service for Flutter applications. With this package, you can perform various HTTP requests such as GET, POST, PUT, and DELETE in a simple and structured way.
 
